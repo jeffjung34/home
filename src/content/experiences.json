@@ -1,0 +1,39 @@
+{
+    "experiences": [
+      {
+        "startDate": "Jul, 2024",
+        "endDate": "Current", 
+        "title": "Software Engineer Intern @Iris Finance",
+        "location": "Remote / United States", 
+        "description": "Currently developing ELT pipelines with Airbyte to integrate data from WooCommerce into PostgreSQL.",
+        "icon" : "computer"
+      }, 
+      {
+        "startDate": "Aug, 2023",
+        "endDate": "Current", 
+        "title": "Undergraduate Teaching Assistant @Duke University",
+        "location": "Duke University, NC", 
+        "description": "Undergraduate Teaching Assistant for CS230 Discrete Mathematics at Duke University.",
+        "icon" : "math"
+      },
+      {
+        "startDate": "Nov, 2021",
+        "endDate": "Jul, 2022", 
+        "title": "Software Engineer Intern @KONA I",
+        "location": "Seoul, South Korea", 
+        "description": "Developed and maintained software solutions, implemented new features, and optimized system performance to improve overall efficiency and user experience.",
+        "icon" : "computer"
+      },
+      {
+        "startDate": "Jun, 2020",
+        "endDate": "Oct, 2021", 
+        "title": "Sergant @23rd Infantry Division",
+        "location": "Gangneung, South Korea", 
+        "description": "Served as a squad leader, overseeing and managing platoon operations and training.",
+        "icon" : "army"
+
+      }
+
+    ]
+  }
+  

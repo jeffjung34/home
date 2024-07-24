@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "title": "Arbitrage Betting",
+      "techStack": "Python",
+      "description": "Developed a tool to identify sports arbitrage betting opportunities.",
+      "url": "https://github.com/jeffjung34/arbitrage-betting"
+    },
+    {
+      "title": "NotUber",
+      "techStack": "Python",
+      "description": "Created a ride-sharing application utilizing graph algorithms for optimal route planning.",
+      "url": "https://github.com/jeffjung34/UberClone"
+    },
+    {
+      "title": "Content Recommendation Systems",
+      "techStack": "Python",
+      "description": "Built systems to recommend personalized movie content to users.",
+      "url": "https://sites.google.com/view/cs333-recommendation-systems?usp=sharing"
+    },
+    {
+      "title": "Apartment Management System",
+      "techStack": "Ruby",
+      "description": "Designed a full-stack application to manage apartment rentals and tenant information.",
+      "url": "https://github.com/jeffjung34/ApartmentApplicationManager"
+    }
+  ],
+  "introduction": "Here are some of the recent projects I've worked on. You can find more on my github page"
+}
